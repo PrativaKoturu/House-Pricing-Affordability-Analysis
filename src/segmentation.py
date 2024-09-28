@@ -8,7 +8,7 @@ def segment_data(file_path, output_path):
     df = pd.read_csv(file_path)
 
     # Define price segments based on 'exactPrice'
-    bins = [0, 10000, 30000, float('inf')]  # Adjust the values according to your data range
+    bins = [0, 10000, 30000, float('inf')]  
     labels = ['low', 'mid', 'high']
     df['price_segment'] = pd.cut(df['exactPrice'], bins=bins, labels=labels)
 
