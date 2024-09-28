@@ -1,1 +1,1 @@
-#Code for segmenting properties into price brackets
+# Code for segmenting properties into price brackets
