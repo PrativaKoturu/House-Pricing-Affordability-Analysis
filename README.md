@@ -166,8 +166,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 **Prativa**
-- GitHub: [@prativa](https://github.com/prativa)
-- Email: contact@example.com
+- GitHub: [@prativa](https://github.com/PrativaKoturu)
+- Email: prativakoturu@gmail.com
 
 ## Acknowledgments
 - Special thanks to all contributors and the open-source community
@@ -176,8 +176,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 For questions or inquiries about this project, please feel free to reach out via:
-- GitHub Issues: [Create an issue](https://github.com/yourusername/House-Pricing-Affordability-Analysis/issues)
-- Email: [your.email@example.com]
+- GitHub Issues: [Create an issue](https://github.com/PrativaKoturu/House-Pricing-Affordability-Analysis/issues)
+- Email: [prativakoturu@gmail.com]
 
 ## Changelog
 ### Version 1.0.0 (Initial Release)
